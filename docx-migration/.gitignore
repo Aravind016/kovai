@@ -1,0 +1,8 @@
+node_modules/
+.env
+uploads/
+*.log
+swagger.json
+swagger-out*
+api_error.json
+test-api.js
